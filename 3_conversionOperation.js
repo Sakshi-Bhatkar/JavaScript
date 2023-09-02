@@ -1,11 +1,11 @@
-let score = 33;
+/*let score = 33;
 console.log(score);
 console.log(typeof(score)); // as a method
 console.log(typeof score);
 
 let valueInNumber = String(score)
 console.log(typeof valueInNumber);
-console.log(valueInNumber);
+console.log(valueInNumber);*/ 
 
 
 //"33" --- 33
@@ -20,3 +20,13 @@ let someString = String(score)
 console.log(typeof someString);
 console.log(someString);
 */
+//--------------------------------Operations---------------------------------------------
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log(1+2+"2");
+console.log("1"+2+3);        //123
